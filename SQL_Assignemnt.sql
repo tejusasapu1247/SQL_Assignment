@@ -1,4 +1,4 @@
-﻿create table Sailors (
+create table Sailors (
 	sid integer not null primary key,
 	sname varchar(100) not null,
 	rating integer not null,
